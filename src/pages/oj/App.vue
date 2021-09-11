@@ -7,7 +7,7 @@
       </transition>
       <div class="footer">
         <p v-html="website.website_footer"></p>
-        <p>Powered by <a href="https://github.com/IQ-160/OnlineJudge">IQ-160 since2010</a>
+        <p>Powered by <a href="https://github.com/IQ-160/OnlineJudge">IQ-160 since2010. </a>
           <span v-if="version">&nbsp; Version: {{ version }}</span>
         </p>
       </div>
